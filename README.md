@@ -14,19 +14,22 @@ There are 4 distinct tasks:
 - Detailed research and implemented simulation in Jupyter notebook.
 
 ## Project Plan
-Choose a real world phenomenon
-Research and understand the dataset
-Choose variables 
-Match variables to a distribution
-Analyse variables and their inter relationships
-Devise an algorithm or method to synthesise those variables
-Generate dataset
+
+- Choose a real world phenomenon
+- Research and understand the dataset
+- Choose variables 
+- Match variables to a distribution
+- Analyse variables and their inter relationships
+- Devise an algorithm or method to synthesise those variables
+- Generate dataset
 
 Prerequisites
-Install Anaconda for the complete suite of python libraries and add on packages.
+
+- Install Anaconda for the complete suite of python libraries and add on packages.
 
 https://www.anaconda.com/download/
 
-Run the Jupyter Notebook
-Open the Jupyter notebook.
-On the menu, select Kernel, then select "restart and run all". This will run the programs in the notebook.
+- Run the Jupyter Notebook
+- Open the Jupyter notebook.
+- On the menu, select Kernel, then select "restart and run all". 
+This will run the programs in the notebook.
